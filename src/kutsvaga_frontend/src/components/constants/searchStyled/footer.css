@@ -1,0 +1,25 @@
+
+.newletter .left{
+    width: 550px;
+}
+.newletter h1{
+    font-size: 30px;
+    font-weight: 500;
+}
+.newletter .right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 800px
+}
+.newletter input{
+    border: none;
+    width: 100%;
+    outline: none;
+}
+.newletter .right .left{
+    width: 70%;
+}
+.newletter .right .right{
+    width: 30%
+}
